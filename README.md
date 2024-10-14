@@ -14,10 +14,11 @@ Over the years, my team and I have assembled/created a set of materials for impr
   * [Four blog posts: Figures for talks vs. papers, simple tips, images in talks, laser pointers](group-1/four-blog-posts-figures-for-talks-vs.-papers-simple-tips-images-in-talks-laser-pointers.md)
   * [Susan McConnell talk](https://www.ibiology.org/professional-development/scientific-presentations/)
 * How to write a fellowship
-  * [Overview document](https://docs.google.com/document/d/1WTMW3LZl1ifpFE1ddH1lvfijmmMsFwZggwsuQcotV\_A/edit)
-  * [Annotated example specific aims page](https://docs.google.com/document/d/1DPCGlyU6yoSPnnZH1EAtLmdPs8CRuF2CWoyw3JEoj84/edit#heading=h.kr6a3jnprsx7)
+  * Overview: So you want to apply for a PhD fellowship?
+    * [Overview document](https://docs.google.com/document/d/1WTMW3LZl1ifpFE1ddH1lvfijmmMsFwZggwsuQcotV\_A/edit)
+      * [Annotated example specific aims page](https://docs.google.com/document/d/1DPCGlyU6yoSPnnZH1EAtLmdPs8CRuF2CWoyw3JEoj84/edit#heading=h.kr6a3jnprsx7)
 * How to write a letter of recommendation for yourself
-  * [Blog post with thoughts](http://rajlaboratory.blogspot.com/2019/02/dear-me-i-am-awesome-sincerely-me-aka.html)
+  * [Blog post: Dear me, I am awesome. Sincerely, me… aka How to write a letter of rec for yourself](dear-me-i-am-awesome.-sincerely-me...-aka-how-to-write-a-letter-of-rec-for-yourself.md)
 * Navigating the PhD
   * [How to assemble and use a thesis committee](https://docs.google.com/document/d/14w3XX1n8Ees2Wy\_pIZFj3FN645Yr4mQX\_Hyav7xneRw/edit)
 * How to review a paper
