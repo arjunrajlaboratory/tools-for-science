@@ -17,7 +17,7 @@ Over the years, my team and I have assembled/created a set of materials for impr
   * [Overview: So you want to apply for a PhD fellowship?](how-to-write-a-fellowship/so-you-want-to-apply-for-a-phd-fellowship.md)
   * [Annotated example specific aims page](how-to-write-a-fellowship/annotated-example-of-a-specific-aims-page.md)
 * How to write a letter of recommendation for yourself
-  * [Blog post: Dear me, I am awesome. Sincerely, me… aka How to write a letter of rec for yourself](dear-me-i-am-awesome.-sincerely-me...-aka-how-to-write-a-letter-of-rec-for-yourself.md)
+  * [Blog post: Dear me, I am awesome. Sincerely, me… aka How to write a letter of rec for yourself](navigating-the-phd/dear-me-i-am-awesome.-sincerely-me...-aka-how-to-write-a-letter-of-rec-for-yourself.md)
 * Navigating the PhD
   * [How to assemble and use a thesis committee](navigating-the-phd/some-personal-opinions-on-how-to-assemble-and-best-use-a-thesis-committee.md)
 * How to review a paper
