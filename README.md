@@ -7,19 +7,19 @@ description: By Arjun Raj, members of the lab, and various others
 Over the years, my team and I have assembled/created a set of materials for improving science processes. How to write, how to give a talk, various specific things, etc. Here they are for use by all. Please let me know if there’s anything to add to this list.
 
 * How to give a talk.
-  * [Blog post on how to structure a talk](group-1/blog-post-on-how-to-structure-a-talk.md)
-  * [“Refusing the call” and presenting a scientific story](group-1/refusing-the-call-and-presenting-a-scientific-story.md)
+  * [Blog post on how to structure a talk](how-to-give-a-talk/blog-post-on-how-to-structure-a-talk.md)
+  * [“Refusing the call” and presenting a scientific story](how-to-give-a-talk/refusing-the-call-and-presenting-a-scientific-story.md)
   * [Resonate](https://www.duarte.com/resources/books/resonate/), by Nancy Duarte
   * [http://www.howtogiveatalk.com/](https://www.howtogiveatalk.com/) - David Stern's website
-  * [Four blog posts: Figures for talks vs. papers, simple tips, images in talks, laser pointers](group-1/four-blog-posts-figures-for-talks-vs.-papers-simple-tips-images-in-talks-laser-pointers.md)
+  * [Four blog posts: Figures for talks vs. papers, simple tips, images in talks, laser pointers](how-to-give-a-talk/four-blog-posts-figures-for-talks-vs.-papers-simple-tips-images-in-talks-laser-pointers.md)
   * [Susan McConnell talk](https://www.ibiology.org/professional-development/scientific-presentations/)
 * How to write a fellowship
-  * [Overview: So you want to apply for a PhD fellowship?](group-2/so-you-want-to-apply-for-a-phd-fellowship.md)
-  * [Annotated example specific aims page](group-2/annotated-example-of-a-specific-aims-page.md)
+  * [Overview: So you want to apply for a PhD fellowship?](how-to-write-a-fellowship/so-you-want-to-apply-for-a-phd-fellowship.md)
+  * [Annotated example specific aims page](how-to-write-a-fellowship/annotated-example-of-a-specific-aims-page.md)
 * How to write a letter of recommendation for yourself
   * [Blog post: Dear me, I am awesome. Sincerely, me… aka How to write a letter of rec for yourself](dear-me-i-am-awesome.-sincerely-me...-aka-how-to-write-a-letter-of-rec-for-yourself.md)
 * Navigating the PhD
-  * [How to assemble and use a thesis committee](group-3/some-personal-opinions-on-how-to-assemble-and-best-use-a-thesis-committee.md)
+  * [How to assemble and use a thesis committee](navigating-the-phd/some-personal-opinions-on-how-to-assemble-and-best-use-a-thesis-committee.md)
 * How to review a paper
   * [How to review a paper](http://rajlaboratory.blogspot.com/2014/04/how-to-review-paper.html)
   * [How to re-review a paper](http://rajlaboratory.blogspot.com/2014/04/how-to-re-review-paper.html)
