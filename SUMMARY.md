@@ -16,3 +16,4 @@
 
 * [So you want to apply for a PhD fellowship?](group-2/so-you-want-to-apply-for-a-phd-fellowship.md)
 * [Structured feedback form](group-2/structured-feedback-form.md)
+* [Annotated example of a specific aims page](group-2/annotated-example-of-a-specific-aims-page.md)

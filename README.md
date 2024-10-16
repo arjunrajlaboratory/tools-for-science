@@ -8,15 +8,15 @@ Over the years, my team and I have assembled/created a set of materials for impr
 
 * How to give a talk.
   * [Blog post on how to structure a talk](group-1/blog-post-on-how-to-structure-a-talk.md)
-  * [“Refusing the call” and presenting a scientific story](https://rajlaboratory.blogspot.com/2023/09/refusing-call-and-presenting-scientific.html)
-  * [Resonate](http://rajlaboratory.blogspot.com/2016/09/some-thoughts-on-how-to-structure-talk.html), by Nancy Duarte
-  * [http://www.howtogiveatalk.com/](http://www.howtogiveatalk.com/) - David Stern website
+  * [“Refusing the call” and presenting a scientific story](group-1/refusing-the-call-and-presenting-a-scientific-story.md)
+  * Resonate[^1], by Nancy Duarte
+  * [http://www.howtogiveatalk.com/](https://www.howtogiveatalk.com/) - David Stern website
   * [Four blog posts: Figures for talks vs. papers, simple tips, images in talks, laser pointers](group-1/four-blog-posts-figures-for-talks-vs.-papers-simple-tips-images-in-talks-laser-pointers.md)
   * [Susan McConnell talk](https://www.ibiology.org/professional-development/scientific-presentations/)
 * How to write a fellowship
-  * Overview: So you want to apply for a PhD fellowship?
-    * [Overview document](https://docs.google.com/document/d/1WTMW3LZl1ifpFE1ddH1lvfijmmMsFwZggwsuQcotV\_A/edit)
-      * [Annotated example specific aims page](https://docs.google.com/document/d/1DPCGlyU6yoSPnnZH1EAtLmdPs8CRuF2CWoyw3JEoj84/edit#heading=h.kr6a3jnprsx7)
+  * [Overview: So you want to apply for a PhD fellowship?](group-2/so-you-want-to-apply-for-a-phd-fellowship.md)
+  *
+    * [Annotated example specific aims page](https://docs.google.com/document/d/1DPCGlyU6yoSPnnZH1EAtLmdPs8CRuF2CWoyw3JEoj84/edit#heading=h.kr6a3jnprsx7)
 * How to write a letter of recommendation for yourself
   * [Blog post: Dear me, I am awesome. Sincerely, me… aka How to write a letter of rec for yourself](dear-me-i-am-awesome.-sincerely-me...-aka-how-to-write-a-letter-of-rec-for-yourself.md)
 * Navigating the PhD
@@ -51,3 +51,5 @@ Over the years, my team and I have assembled/created a set of materials for impr
   * [Pre-registration in molecular biology](https://rajlaboratory.blogspot.com/2024/02/pre-registration-in-molecular-biology.html)
   * [Night science interview about creativity](https://nightscience.buzzsprout.com/1744020/8346595-arjun-raj-s-bag-of-tricks)
   * [Project selection: Lean into your strengths](https://rajlaboratory.blogspot.com/2024/06/project-choice-lean-into-your-strengths.html)
+
+[^1]: [https://www.duarte.com/resources/books/resonate/](https://www.duarte.com/resources/books/resonate/)
