@@ -17,3 +17,7 @@
 * [So you want to apply for a PhD fellowship?](group-2/so-you-want-to-apply-for-a-phd-fellowship.md)
 * [Structured feedback form](group-2/structured-feedback-form.md)
 * [Annotated example of a specific aims page](group-2/annotated-example-of-a-specific-aims-page.md)
+
+## Group 3
+
+* [Some (personal) opinions on how to assemble and best use a thesis committee](group-3/some-personal-opinions-on-how-to-assemble-and-best-use-a-thesis-committee.md)

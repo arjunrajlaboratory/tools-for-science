@@ -15,12 +15,11 @@ Over the years, my team and I have assembled/created a set of materials for impr
   * [Susan McConnell talk](https://www.ibiology.org/professional-development/scientific-presentations/)
 * How to write a fellowship
   * [Overview: So you want to apply for a PhD fellowship?](group-2/so-you-want-to-apply-for-a-phd-fellowship.md)
-  *
-    * [Annotated example specific aims page](https://docs.google.com/document/d/1DPCGlyU6yoSPnnZH1EAtLmdPs8CRuF2CWoyw3JEoj84/edit#heading=h.kr6a3jnprsx7)
+  * [Annotated example specific aims page](group-2/annotated-example-of-a-specific-aims-page.md)
 * How to write a letter of recommendation for yourself
   * [Blog post: Dear me, I am awesome. Sincerely, me… aka How to write a letter of rec for yourself](dear-me-i-am-awesome.-sincerely-me...-aka-how-to-write-a-letter-of-rec-for-yourself.md)
 * Navigating the PhD
-  * [How to assemble and use a thesis committee](https://docs.google.com/document/d/14w3XX1n8Ees2Wy\_pIZFj3FN645Yr4mQX\_Hyav7xneRw/edit)
+  * [How to assemble and use a thesis committee](group-3/some-personal-opinions-on-how-to-assemble-and-best-use-a-thesis-committee.md)
 * How to review a paper
   * [How to review a paper](http://rajlaboratory.blogspot.com/2014/04/how-to-review-paper.html)
   * [How to re-review a paper](http://rajlaboratory.blogspot.com/2014/04/how-to-re-review-paper.html)
