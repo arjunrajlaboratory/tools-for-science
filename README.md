@@ -9,8 +9,8 @@ Over the years, my team and I have assembled/created a set of materials for impr
 * How to give a talk.
   * [Blog post on how to structure a talk](group-1/blog-post-on-how-to-structure-a-talk.md)
   * [“Refusing the call” and presenting a scientific story](group-1/refusing-the-call-and-presenting-a-scientific-story.md)
-  * Resonate[^1], by Nancy Duarte
-  * [http://www.howtogiveatalk.com/](https://www.howtogiveatalk.com/) - David Stern website
+  * [Resonate](https://www.duarte.com/resources/books/resonate/), by Nancy Duarte
+  * [http://www.howtogiveatalk.com/](https://www.howtogiveatalk.com/) - David Stern's website
   * [Four blog posts: Figures for talks vs. papers, simple tips, images in talks, laser pointers](group-1/four-blog-posts-figures-for-talks-vs.-papers-simple-tips-images-in-talks-laser-pointers.md)
   * [Susan McConnell talk](https://www.ibiology.org/professional-development/scientific-presentations/)
 * How to write a fellowship
@@ -50,5 +50,3 @@ Over the years, my team and I have assembled/created a set of materials for impr
   * [Pre-registration in molecular biology](https://rajlaboratory.blogspot.com/2024/02/pre-registration-in-molecular-biology.html)
   * [Night science interview about creativity](https://nightscience.buzzsprout.com/1744020/8346595-arjun-raj-s-bag-of-tricks)
   * [Project selection: Lean into your strengths](https://rajlaboratory.blogspot.com/2024/06/project-choice-lean-into-your-strengths.html)
-
-[^1]: [https://www.duarte.com/resources/books/resonate/](https://www.duarte.com/resources/books/resonate/)
