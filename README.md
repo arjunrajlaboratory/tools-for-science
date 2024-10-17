@@ -28,7 +28,7 @@ Over the years, my team and I have assembled/created a set of materials for impr
 
 * [Blog post: Dear me, I am awesome. Sincerely, me… aka How to write a letter of rec for yourself](navigating-the-phd/dear-me-i-am-awesome.-sincerely-me...-aka-how-to-write-a-letter-of-rec-for-yourself.md)
 * [How to assemble and use a thesis committee](navigating-the-phd/some-personal-opinions-on-how-to-assemble-and-best-use-a-thesis-committee.md)
-* [Project selection: Lean into your strengths](https://rajlaboratory.blogspot.com/2024/06/project-choice-lean-into-your-strengths.html)
+* [Project selection: Lean into your strengths](navigating-the-phd/project-selection-lean-into-your-strengths.md)
 
 ### How to review a paper
 

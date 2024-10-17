@@ -22,6 +22,7 @@
 
 * [Some (personal) opinions on how to assemble and best use a thesis committee](navigating-the-phd/some-personal-opinions-on-how-to-assemble-and-best-use-a-thesis-committee.md)
 * [Dear me, I am awesome. Sincerely, me… aka How to write a letter of rec for yourself](navigating-the-phd/dear-me-i-am-awesome.-sincerely-me...-aka-how-to-write-a-letter-of-rec-for-yourself.md)
+* [Project selection: lean into your strengths](navigating-the-phd/project-selection-lean-into-your-strengths.md)
 
 ## Applying for faculty positions
 
