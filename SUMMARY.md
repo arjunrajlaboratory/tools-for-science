@@ -8,6 +8,10 @@
 * [“Refusing the call” and presenting a scientific story](how-to-give-a-talk/refusing-the-call-and-presenting-a-scientific-story.md)
 * [Four blog posts: Figures for talks vs. papers, simple tips, images in talks, laser pointers](how-to-give-a-talk/four-blog-posts-figures-for-talks-vs.-papers-simple-tips-images-in-talks-laser-pointers.md)
 
+## General writing advice
+
+* [Words to avoid when writing](general-writing-advice/words-to-avoid-when-writing.md)
+
 ## How to write a fellowship
 
 * [So you want to apply for a PhD fellowship?](how-to-write-a-fellowship/so-you-want-to-apply-for-a-phd-fellowship.md)

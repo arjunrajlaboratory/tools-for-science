@@ -13,6 +13,8 @@ Over the years, my team and I have assembled/created a set of materials for impr
   * [http://www.howtogiveatalk.com/](https://www.howtogiveatalk.com/) - David Stern's website
   * [Four blog posts: Figures for talks vs. papers, simple tips, images in talks, laser pointers](how-to-give-a-talk/four-blog-posts-figures-for-talks-vs.-papers-simple-tips-images-in-talks-laser-pointers.md)
   * [Susan McConnell talk](https://www.ibiology.org/professional-development/scientific-presentations/)
+* General writing advice
+  * [Word to avoid when writing](general-writing-advice/words-to-avoid-when-writing.md)
 * How to write a fellowship
   * [Overview: So you want to apply for a PhD fellowship?](how-to-write-a-fellowship/so-you-want-to-apply-for-a-phd-fellowship.md)
   * [Annotated example specific aims page](how-to-write-a-fellowship/annotated-example-of-a-specific-aims-page.md)
