@@ -17,6 +17,7 @@
 * [So you want to apply for a PhD fellowship?](how-to-write-a-fellowship/so-you-want-to-apply-for-a-phd-fellowship.md)
 * [Structured feedback form](how-to-write-a-fellowship/structured-feedback-form.md)
 * [Annotated example of a specific aims page](how-to-write-a-fellowship/annotated-example-of-a-specific-aims-page.md)
+* [F30 Sponsor Information template](how-to-write-a-fellowship/f30-sponsor-information-template.md)
 
 ## Navigating the PhD
 

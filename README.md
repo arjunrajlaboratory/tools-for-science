@@ -23,6 +23,7 @@ Over the years, my team and I have assembled/created a set of materials for impr
 
 * [Overview: So you want to apply for a PhD fellowship?](how-to-write-a-fellowship/so-you-want-to-apply-for-a-phd-fellowship.md)
 * [Annotated example specific aims page](how-to-write-a-fellowship/annotated-example-of-a-specific-aims-page.md)
+* [Example F30 Sponsor Information](how-to-write-a-fellowship/f30-sponsor-information-template.md)
 
 ### Navigating the PhD
 
