@@ -25,6 +25,11 @@
 * [Dear me, I am awesome. Sincerely, me… aka How to write a letter of rec for yourself](navigating-the-phd/dear-me-i-am-awesome.-sincerely-me...-aka-how-to-write-a-letter-of-rec-for-yourself.md)
 * [Project selection: lean into your strengths](navigating-the-phd/project-selection-lean-into-your-strengths.md)
 
+## Reviewing papers
+
+* [Annotated example review of a science paper](reviewing-papers/annotated-example-review-of-a-science-paper.md)
+* [Annotated review of tech paper](reviewing-papers/annotated-review-of-tech-paper.md)
+
 ## Applying for faculty positions
 
 * [Thoughts on applying for faculty positions](applying-for-faculty-positions/thoughts-on-applying-for-faculty-positions.md)

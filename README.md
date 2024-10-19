@@ -35,8 +35,8 @@ Over the years, my team and I have assembled/created a set of materials for impr
 
 * [How to review a paper](http://rajlaboratory.blogspot.com/2014/04/how-to-review-paper.html)
 * [How to re-review a paper](http://rajlaboratory.blogspot.com/2014/04/how-to-re-review-paper.html)
-* [Annotated example review of science paper](https://docs.google.com/document/d/1unO4J36sfmfynFNjBbjkjIiwrdAh0rg9BAB7TKF0R\_M/edit)
-* [Annotated example review of tech paper](https://docs.google.com/document/d/1k-DCuiR0cDM4h04AQXFjViNF2A0V0MLtA9zu9e-JmcU/edit)
+* [Annotated example review of science paper](reviewing-papers/annotated-example-review-of-a-science-paper.md)
+* [Annotated example review of tech paper](reviewing-papers/annotated-review-of-tech-paper.md)
 
 ### How to do computationally reproducible research
 
