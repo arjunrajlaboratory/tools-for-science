@@ -52,7 +52,7 @@ Over the years, my team and I have assembled/created a set of materials for impr
 
 ### Applying for a faculty position
 
-* [Thoughts on applying for faculty jobs](https://docs.google.com/document/u/0/d/1Yew6wb1PMDPanPyJIRspqFvYDcIe7FwwvmKheRy8XHI/edit)
+* [Thoughts on applying for faculty jobs](applying-for-faculty-positions/thoughts-on-applying-for-faculty-positions.md)
 
 ### Writing a response to reviewers for revising a paper
 
