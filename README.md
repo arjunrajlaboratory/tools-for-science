@@ -48,7 +48,7 @@ Over the years, my team and I have assembled/created a set of materials for impr
 * [Sample introduction 1 (science paper) with annotations](writing-a-paper/sample-introduction-example-1-science-paper-annotated.md)
 * [Sample introduction 2 (tech paper) with annotations](writing-a-paper/sample-introduction-example-2-tech-paper-annotated.md)
 * [Sample introduciton 3 (theory paper) with annotations](writing-a-paper/sample-introduction-example-3-theory-paper-annotated.md)
-* [Words to avoid when writing](https://docs.google.com/document/d/1r6nDcF43esu3xBjmk3ERAmaEHKEB75\_HflSkk3zZhBk/edit)
+* [Words to avoid when writing](general-writing-advice/words-to-avoid-when-writing.md)
 * [Writing checklist (incomplete)](https://docs.google.com/document/d/1DmoBuFUK6bJG9C5AM5B7i12GI2ew8egg2b-50DdgRFI/edit)
 * [Paper submission checklist](https://docs.google.com/document/d/1\_5R2c6WVjV5qi5profAlMHQd2LHhhXgzmYn\_htsJl4Q/edit?usp=sharing)
 
