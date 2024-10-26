@@ -45,7 +45,9 @@ Over the years, my team and I have assembled/created a set of materials for impr
 
 ### Writing a paper
 
-* Introductions, annotated [example 1](https://docs.google.com/document/d/1nqVYRTql1sgUNxT9RfE0SX0RiyH3QlgUZgX\_Jg6fsos/edit?usp=sharing), [example 2](https://docs.google.com/document/d/1lGpMFtW4x4GOx-TUmVD\_iguM-vh3nvdjNhN-R2PyXt8/edit?usp=sharing), [example 3](https://docs.google.com/document/d/1TEFLJpjwRiSM2E0gmiUg98sZFEigg\_8Pj4vblEh39xI/edit?usp=sharing)
+* [Sample introduction 1 (science paper) with annotations](writing-a-paper/sample-introduction-example-1-science-paper-annotated.md)
+* [Sample introduction 2 (tech paper) with annotations](writing-a-paper/sample-introduction-example-2-tech-paper-annotated.md)
+* [Sample introduciton 3 (theory paper) with annotations](writing-a-paper/sample-introduction-example-3-theory-paper-annotated.md)
 * [Words to avoid when writing](https://docs.google.com/document/d/1r6nDcF43esu3xBjmk3ERAmaEHKEB75\_HflSkk3zZhBk/edit)
 * [Writing checklist (incomplete)](https://docs.google.com/document/d/1DmoBuFUK6bJG9C5AM5B7i12GI2ew8egg2b-50DdgRFI/edit)
 * [Paper submission checklist](https://docs.google.com/document/d/1\_5R2c6WVjV5qi5profAlMHQd2LHhhXgzmYn\_htsJl4Q/edit?usp=sharing)

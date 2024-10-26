@@ -25,6 +25,12 @@
 * [Dear me, I am awesome. Sincerely, me… aka How to write a letter of rec for yourself](navigating-the-phd/dear-me-i-am-awesome.-sincerely-me...-aka-how-to-write-a-letter-of-rec-for-yourself.md)
 * [Project selection: lean into your strengths](navigating-the-phd/project-selection-lean-into-your-strengths.md)
 
+## Writing a paper
+
+* [Sample introduction example 1 (science paper, annotated)](writing-a-paper/sample-introduction-example-1-science-paper-annotated.md)
+* [Sample introduction example 2 (tech paper, annotated)](writing-a-paper/sample-introduction-example-2-tech-paper-annotated.md)
+* [Sample introduction example 3 (theory paper, annotated)](writing-a-paper/sample-introduction-example-3-theory-paper-annotated.md)
+
 ## Reviewing papers
 
 * [Annotated example review of a science paper](reviewing-papers/annotated-example-review-of-a-science-paper.md)
