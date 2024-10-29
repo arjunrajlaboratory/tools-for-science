@@ -75,3 +75,4 @@ Over the years, my team and I have assembled/created a set of materials for impr
 * [Pre-registration in molecular biology](https://rajlaboratory.blogspot.com/2024/02/pre-registration-in-molecular-biology.html)
 * [Night science interview about creativity](https://nightscience.buzzsprout.com/1744020/8346595-arjun-raj-s-bag-of-tricks)
 * [Project selection: Lean into your strengths](https://rajlaboratory.blogspot.com/2024/06/project-choice-lean-into-your-strengths.html)
+* [Using AI in academia](how-to-do-science/using-ai-in-academia.md)

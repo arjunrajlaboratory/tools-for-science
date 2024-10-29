@@ -39,3 +39,7 @@
 ## Applying for faculty positions
 
 * [Thoughts on applying for faculty positions](applying-for-faculty-positions/thoughts-on-applying-for-faculty-positions.md)
+
+## How to do science
+
+* [Using AI in academia](how-to-do-science/using-ai-in-academia.md)
