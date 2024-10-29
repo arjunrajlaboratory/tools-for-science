@@ -56,6 +56,10 @@ A common complaint is that the letters it generates are filled with “fluff”.
 
 Now try again, but this time, paste in a couple of examples of letters you’ve already written (for someone else is fine), maybe also the trainee’s CV **(with** [**identifying information removed**](using-ai-in-academia.md#privacy-and-ethical-use) **from letters and CV)**, and then give a few more details. See the difference?
 
+{% hint style="info" %}
+Another reminder: it is critically important to consider privacy as you use AI, because your data may end up in a company database. Please see [this section](using-ai-in-academia.md#privacy-and-ethical-use) for a more detailed discussion.
+{% endhint %}
+
 This illustrates a couple of points that are really important in working with AI:
 
 1. Give it examples (i.e. model the output in the context window—to be discussed more later).
@@ -158,7 +162,7 @@ I think there are also just so many fun little one-off cases. Here’s a couple:
 
 ### Privacy and ethical use
 
-A number of people in our meeting raised concerns about the privacy and ethical aspects of using AI. Privacy is a critical practical consideration in many cases. This is because when you use AI, whatever you put in the chat is uploaded to some private company, which may then incorporate it into their training data, meaning that it is in some way publicly accessible. For instance, if you uploaded a grant you are reviewing (expressly forbidden, BTW) or writing (not forbidden), that grant could become part of the training data. In theory, someone else could ask a question and get an answer that is related to the confidential materials in the grant. I don’t actually know how real this possibility is in practice, but it is a legitimate concern, especially since these are private companies with not much regulatory oversight. Many of these companies have some version of a “private chatting mode” where your data is supposedly not used for training, but… well, given that Google’s incognito mode was not quite so incognito, you can be forgiven for not taking these companies at their word. I certainly do not trust they honor such promises.
+A number of people in our meeting raised concerns about the privacy and ethical aspects of using AI. Privacy is a critical practical consideration in many cases. This is because when you use AI, whatever you put in the chat is uploaded to some private company, which may then incorporate it into their training data, meaning that it is in some way publicly accessible. _For instance, if you uploaded a grant you are reviewing (expressly forbidden, BTW) or writing (not forbidden), that grant could become part of the training data._ In theory, someone else could ask a question and get an answer that is related to the confidential materials in the grant. I don’t actually know how real this possibility is in practice, but it is a legitimate concern, especially since these are private companies with not much regulatory oversight. Many of these companies have some version of a “private chatting mode” where your data is supposedly not used for training, but… well, given that Google’s incognito mode was not quite so incognito, you can be forgiven for not taking these companies at their word. I certainly do not trust they honor such promises.
 
 How much you care… well, that’s a personal matter. One person in the group said that they redact all names in letters of recommendation to maintain some degree of confidentiality for the trainee, and this is required for FERPA compliance, so we recommend doing this for all letter-writing tasks.
 
