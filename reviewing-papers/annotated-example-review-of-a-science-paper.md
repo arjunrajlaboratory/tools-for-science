@@ -33,8 +33,7 @@ My primary concern with the paper is with the interpretations the authors make o
 {% hint style="info" %}
 Here’s where we talk about specific concerns. BE SPECIFIC. Not like “the analysis was lacking” or “such and such was unconvincing”. What was lacking? What was unconvincing? And SPECIFICALLY what can the authors do to solve that? This is very important, because sometimes by thinking about that, you realize that it’s not really possible to address the issue. Rather, I try to make them alter the language of what they can claim given the data they have. If the reduction in claims makes the paper way less interesting, then that’s the editor’s call, in my opinion.\
 \
-I avoid asking for new experiments, but new analyses of existing data is fair game, in my opinion. Oh, and don’t worry about things like grammar and other nitty gritty. Not your job.\
-
+I avoid asking for new experiments, but new analyses of existing data is fair game, in my opinion. Oh, and don’t worry about things like grammar and other nitty gritty. Not your job.<br>
 {% endhint %}
 
 {% hint style="info" %}
@@ -107,7 +106,6 @@ I sign my reviews but you don’t have to.
 
 Arjun Raj
 
-\
-
+<br>
 
 [^1]: Quoting specific sentences is very specific and is a good thing.

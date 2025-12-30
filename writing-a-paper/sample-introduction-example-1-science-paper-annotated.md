@@ -34,8 +34,7 @@ Highlight key results here. Do NOT just reiterate the abstract. Instead, try and
 
 Here, we designed probes to comprehensively interrogate the [<mark style="background-color:orange;">spatial localization of several RNA intermediates using a combination of RNA FISH and expansion microscopy</mark>](#user-content-fn-10)[^10] [(F. Chen et al. 2016; F. Chen, Tillberg, and Boyden 2015)](https://paperpile.com/c/Ltwq9O/WBa0+KbDK). We revealed the ordering of transcriptional and splicing processes with single molecule resolution. We found that the proportion of splicing that occurs post-transcriptionally varies from intron to intron within a single gene, but that all endogenous genes we tested displayed some degree of post-transcriptional splicing. We also employed expansion microscopy to demonstrate that newly synthesized RNA dwell and undergo continuous splicing near the site of transcription after transcription is complete. These RNA are untethered to the site of transcription and eventually diffuse into either the nucleoplasm or near nuclear speckles.
 
-\
-
+<br>
 
 [^1]: Sets up the question in broad terms, highlighting a broad controversy in the field.
 

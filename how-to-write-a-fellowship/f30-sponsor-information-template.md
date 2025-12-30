@@ -73,8 +73,7 @@ Applicant's Qualifications and Potential for a Research Career
 
 **\<PESTER ARJUN TO WRITE THIS FOR YOU AND PUT THE 2ISH PAGES HERE. THIS IS ESSENTIALLY A LETTER OF RECOMMENDATION.>**
 
-\
-
+<br>
 
 [^1]: You may want to list additional institutional funds here if the grants do not appear sufficient to cover the work.
 

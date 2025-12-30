@@ -44,4 +44,4 @@ For any more serious concerns, like a major issue with the advisor (unreasonably
 
 In my experience, though, these situations have been fortunately rare. Thesis committees are typically a positive and enriching experience for both students and faculty alike, enjoy!
 
-\
+<br>

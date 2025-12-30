@@ -28,8 +28,7 @@ Usually a short description of the work here. Shorter and different than abstrac
 
 Here, we combine cellular barcoding with RNA Fluorescent In Situ Hybridization (RNA FISH) to selectively isolate rare cells that adopt distinct cellular fates. We apply this methodology, which we call Rewind, to targeted therapy resistance in melanoma, revealing prospective expression markers of cells primed for resistance upon BRAFV600E inhibition. Further, we show that differences in resistance outcome can be traced to distinct cell subpopulations that can be discriminated on the basis of their transcriptome profiles. These findings suggest that cryptic single cell variability within otherwise homogeneous cells can lead to important differences in ultimate cellular behavior in response to a treatment.
 
-\
-
+<br>
 
 [^1]: Simple description of an instance of the question. In this case, we wanted to pitch the method as general, but also bring up this specific example, which will be the focus of the paper.
 

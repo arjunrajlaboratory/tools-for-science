@@ -20,8 +20,7 @@ The second paragraph is an overall assessment of the paper and its “impact”.
 
 Overall, I think that this paper is very exciting. The method represents an innovative combination of genomics and material synthesis. Moreover, the scale of the method, being able to sequence large numbers of virions, is sufficient for most applications, and their application was an excellent demonstration of this capacity. One can imagine applications outside of this original area, potentially to the genomes of microbial communities or tumor cells. The data are all of very high quality.
 
-\
-
+<br>
 
 {% hint style="info" %}
 If I have a major overarching theme to my concerns, then I will have another paragraph describing that concern, along with a general prescription for what to do about it. It can be general, but should be backed up by specific points (more on that later). This paragraph signals to the editor that this is a big problem with the manuscript and needs to be addressed. If the paper has no major flaws, then I will sometimes drop this paragraph entirely and just go straight to the specific concerns.
@@ -83,4 +82,4 @@ I sign my reviews but you don’t have to.
 
 Arjun Raj
 
-\
+<br>

@@ -10,8 +10,7 @@ Anyway, I reconfigured the talk with some rather different figures, and it went 
 
 ## Simple tips to improve your presentations
 
-Lots of stuff out there on how to give a good talk, but if I were to pick my top three tips that would really improve most academic presentations, I would pick these (courtesy of Uri Alon):\
-
+Lots of stuff out there on how to give a good talk, but if I were to pick my top three tips that would really improve most academic presentations, I would pick these (courtesy of Uri Alon):<br>
 
 1. Your presentation should be centered around you, not your slides. The slides are your props, but _you_ are delivering the material.
 2. Make sure every slide has a title that is a complete sentence. Sentence, verb, object. This was transformative for me. It ensures that every slide has a point.
@@ -49,4 +48,4 @@ So what are good pointing devices to use?
 * Arrows in the presentation. If you can't do the first two, which may be if you have to talk in an enormous lecture hall and your podium has been unwisely (but commonly) placed far from the projection screens, you can animate an arrow to appear on your slide when you want to call attention to something. This requires you to think beforehand about what you want to call attention to.&#x20;
 
 What is a good use of a laser pointer?\
-Turns out they make passable lasers for optical applications. You can use them to align your complicated optical experiment, or even do fluorescence microscopy (I've used them for both). It is also apparently the case that the laser dot is very entertaining to cats and they chase after it like it is prey, which coming to think of it is a lot like what we humans do (points 1 and 2 above), so they sell these pointers at pet stores. Unlike humans, though, my brother reports that his cat eventually tired of the novelty.\
+Turns out they make passable lasers for optical applications. You can use them to align your complicated optical experiment, or even do fluorescence microscopy (I've used them for both). It is also apparently the case that the laser dot is very entertaining to cats and they chase after it like it is prey, which coming to think of it is a lot like what we humans do (points 1 and 2 above), so they sell these pointers at pet stores. Unlike humans, though, my brother reports that his cat eventually tired of the novelty.<br>

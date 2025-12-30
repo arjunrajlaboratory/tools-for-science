@@ -12,7 +12,7 @@ Anyway, the idea here is to give some ideas on how to structure feedback with th
 
 Okay, so you are reviewing something…
 
-**Pre-question to ask the writer: Have you gone through this** [**writing checklist**](https://docs.google.com/document/d/1r6nDcF43esu3xBjmk3ERAmaEHKEB75\_HflSkk3zZhBk/edit) **yourself, and also done a self-assessment using this document?**
+**Pre-question to ask the writer: Have you gone through this** [**writing checklist**](https://docs.google.com/document/d/1r6nDcF43esu3xBjmk3ERAmaEHKEB75_HflSkk3zZhBk/edit) **yourself, and also done a self-assessment using this document?**
 
 It is important that the writer has gone through at least some self-improvement first to clean up weak writing and thinking. _Use AI tools to help you._
 
@@ -28,4 +28,4 @@ Great! This set of answers, in various forms, is basically the research proposal
 
 Look at this [annotated aims page](https://docs.google.com/document/d/1DPCGlyU6yoSPnnZH1EAtLmdPs8CRuF2CWoyw3JEoj84/edit#heading=h.kr6a3jnprsx7) for an example of trying to answer these questions. Also, here’s an annotated NSF grant that I think is helpful [1](https://mitcommlab.mit.edu/be/wp-content/uploads/sites/2/2016/08/BE-CommLab-nsf-research-aae1.pdf), [2](https://mitcommlab.mit.edu/be/wp-content/uploads/sites/2/2016/08/BE-CommLab-nsf-research-aae2.pdf).
 
-\
+<br>

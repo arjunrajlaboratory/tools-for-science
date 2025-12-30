@@ -190,4 +190,4 @@ I honestly have little experience with negotiation, but I did get the following 
 
 Also, again, don’t sweat little stuff. The key is to find an institution that you feel supports you and your goals. The best indicator is their past success at doing so, so see how people have done before you. Startup funds are important, but if it’s like 20% less at a place you like more, go for the place you like more. In the long run, that little bit of startup just won’t matter.
 
-\
+<br>

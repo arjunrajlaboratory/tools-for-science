@@ -35,8 +35,7 @@ Several phenomena in cancer, including drug-resistance and metastasis, are drive
 
 2B) Determine the gene expression changes that occur during the course of metastasis using barcodes to connect clonal lineages in primary and metastatic tumors. Using these data, identify markers that predict metastasis and tissue tropism, then isolate cell populations expressing these markers for functional characterization. &#x20;
 
-\
-
+<br>
 
 [^1]: Important for NIH to set up disease relevance. Less so for NSF.
 

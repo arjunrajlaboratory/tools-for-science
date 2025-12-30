@@ -38,8 +38,7 @@ This next paragraph is a continuation of the above, elaborating on what was done
 
 Computational screens on more than 96 million simulated cells reveal that many networks with interactions between genes are capable of producing rare coordinated high states. Critically, transcriptional bursting, a ubiquitous phenomenon in which genes flip between transcriptionally active and inactive states, is necessary to produce these rare coordinated high states within the context of our models. Subsequent quantitative analysis shows that rare coordinated high states occur across networks of all sizes investigated (up to 10 nodes), but that (i) they depend on three (out of seven) independent model parameters and (ii) their frequency of occurrence decreases monotonically with increasing network connectivity. The transition into the rare coordinated high state is initiated by a long transcriptional burst, which, in turn, triggers the entry of subsequent genes into the rare coordinated high state. In contrast, the transition out of rare coordinated high state is independent of the duration of transcriptional bursts, rather it happens through the independent inactivation of individual genes. We also confirm model predictions using experimental gene expression data (RNA FISH data) taken from melanoma cell lines. Together, we demonstrate that the standard model of stochastic gene regulation with transcriptional bursting is capable of producing rare coordinated high states in the absence of additional regulation.&#x20;
 
-\
-
+<br>
 
 [^1]: This paragraph provides more detailed context for the aficionado in the field of single cell gene expression.
 
